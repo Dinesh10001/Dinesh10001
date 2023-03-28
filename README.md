@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Data structure and Algorithms and Web development skills like HTML,CSS REACT.JS, NodeJS,ExpressJs.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 You can reach me on my mail id 2020eeb1166@iitrpr.ac.in
+- 📫 You can reach me on my mail id dineshsingh810780@gmail.com
 
 <!---
 Dinesh10001/Dinesh10001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
