@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dinesh, 3rd year EE student at IIT Ropar.
+- 👋 Hi, I’m Dinesh, final year EE student at IIT Ropar.
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Data structure and Algorithms and Web development skills like HTML,CSS REACT.JS, NodeJS,ExpressJs.
+- 🌱 I’m currently learning Data structure and Algorithms and Web development skills like HTML, CSS REACT.JS, NodeJS, ExpressJs.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can reach me on my mail id dineshsingh810780@gmail.com
 
